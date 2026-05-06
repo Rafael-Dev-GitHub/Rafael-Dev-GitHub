@@ -1,28 +1,36 @@
 ### Olá, meu nome é Rafael Monteiro.
-Sou apaixonado pelo desenvolvimento front-end 👨‍💻
+ 
+💻 Profissional de infraestrutura e plataformas com foco em Kubernetes, automação e observabilidade.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Dev-GitHub&show_icons=true&theme=tokyonight)
+Atualmente atuo na construção e operação de ambientes em produção utilizando arquitetura cloud-native, com forte ênfase em automação, alta disponibilidade e monitoramento.
 
+## 🚀 Principais competências
 
-Atualmente, tenho esses conhecimentos 🤓
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
-<br>
-Estou aprendendo sobre... ✍
+- ☸️ Kubernetes (Talos Linux, Helm, ArgoCD, Ingress-NGINX)
+- 🔄 GitOps e CI/CD (GitLab CI, ArgoCD)
+- 📊 Observabilidade (Prometheus, Grafana, Loki, Alloy)
+- 💾 Storage e persistência (Longhorn, MinIO, Ceph)
+- 🔐 Segurança e Secrets (HashiCorp Vault, External Secrets)
+- 🌐 Redes e Ingress (LoadBalancer, MetalLB, DNS interno)
+- 🐧 Linux / Infraestrutura (Proxmox, VMs, troubleshooting avançado)
 
-<div style="display: inline_block">
-  <br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
+## 🏗️ Experiência prática
 
+- Operação de cluster Kubernetes em ambiente real (HML e Produção)
+- Deploy de aplicações completas (GLPI, SGP, OpenProject, Harbor)
+- Implementação de monitoramento centralizado com métricas e logs
+- Automação de backups com integração a MinIO e armazenamento externo
+- Configuração de pipelines CI/CD com build, deploy e sincronização automática via GitOps
+- Troubleshooting avançado em ambientes distribuídos
 
-<br>
-Como entrar em contato comigo 👇
+## 🔍 Interesses
+
+- Engenharia de Plataforma (Platform Engineering)
+- Automação de infraestrutura
+- Observabilidade e confiabilidade (SRE)
+- Arquiteturas escaláveis e resilientes
+
+📫 Como entrar em contato comigo 👇
 
 <div> 
   <br>
