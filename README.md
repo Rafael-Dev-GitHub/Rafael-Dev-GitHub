@@ -23,6 +23,13 @@ Atualmente atuo na construção e operação de ambientes em produção utilizan
 - Configuração de pipelines CI/CD com build, deploy e sincronização automática via GitOps
 - Troubleshooting avançado em ambientes distribuídos
 
+## 📁 Projetos em destaque
+
+- Cluster Kubernetes com Talos + ArgoCD (GitOps completo)
+- Monitoramento com Prometheus + Grafana + Loki
+- Automação de backup de sistemas críticos (GLPI, OpenProject)
+- Integração SSO (Keycloak / OAuth2)
+
 ## 🔍 Interesses
 
 - Engenharia de Plataforma (Platform Engineering)
